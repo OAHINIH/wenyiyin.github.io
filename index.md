@@ -1,4 +1,6 @@
-I'm currently a fourth-year undergraduate student from Fudan University, School of Management. My research interest is mainly focused on Industrial Organization, Health Economics & Corporate Finance. I'm a prospective Ph.D. applicant currently focusing on Economics (Industrial Organization, Health Economics); Finance (Corporate Finance & Financial Intermediaries).
+I'm currently a fourth-year undergraduate student from Fudan University, School of Management. I'm a prospective Ph.D. applicant.
+
+Research interest: Industrial Organization, Health Economics, Corporate Finance 
   
 Mail: <wendyyin913@gmail.com>
 
