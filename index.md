@@ -1,29 +1,24 @@
-## Welcome to Wenyi(Wendy) Yin's page
+## Welcome to Wendy's Homepage!
 
-You can use the [editor on GitHub](https://github.com/wenyiyin/wenyiyin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a fourth-year undergraduate student from Fudan University, School of Management. My research interest is mainly focused on Industrial Organization, Health Economics & Corporate Finance. I'm a prospective Ph.D. applicant currently focusing on Economics (Industrial Organization, Health Economics); Finance (Corporate Finance & Financial Intermediaries)
+  
+Mail: <wendyyin913@gmail.com>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is my [CV](/Wenyi_CV.pdf)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+**2018-present Fudan University**, B.Sc in Statistics.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Research
+  
+[Talend Allocation and Hierarchical firm crosssections](), with [Zhouzhou Gu](), _Draft available upon requrest_. 
 
-1. Numbered
-2. List
+A model of Online Platform and Open Source Community, with [Zhouzhou Gu]().
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
