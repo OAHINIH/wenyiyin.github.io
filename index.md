@@ -2,7 +2,7 @@ I'm currently a fourth-year undergraduate student from Fudan University, School 
 
 Research interest: Industrial Organization, Health Economics, Corporate Finance 
   
-Mail: <wendyyin913@gmail.com>
+Email: <wendyyin913@gmail.com>
 
 Here is my [CV](/Wenyi_CV.pdf)
 
