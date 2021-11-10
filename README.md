@@ -1,2 +1,2 @@
-# wenyiyin.github.io
-Home page for Wendy
+# Wenyi Yin
+Home page for Wendy (a trial)
