@@ -7,9 +7,9 @@ Here is my [CV](/Wenyi_CV.pdf)
 
 ## Education
 
-**2018-present, Fudan University**, B.Sc in Statistics.
+2018-present, Fudan University, B.Sc in Statistics.
 
-**2015-2018, Shanghai High School**
+2015-2018, Shanghai High School
 
 
 ## Research
