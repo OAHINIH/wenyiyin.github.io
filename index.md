@@ -7,14 +7,14 @@ Here is my [CV](/Wenyi_CV.pdf)
 
 ## Education
 
-2018-present, Fudan University, B.Sc in Statistics.
++ 2018-present, Fudan University, B.Sc in Statistics.
 
-2015-2018, Shanghai High School
++ 2015-2018, Shanghai High School
 
 
 ## Research
   
-[Talend Allocation and Hierarchical firm crosssections](), with [Zhouzhou Gu](https://oahinih.github.io/homepage/), _Draft available upon requrest_. 
++ [Talend Allocation and Hierarchical firm crosssections](), with [Zhouzhou Gu](https://oahinih.github.io/homepage/), _Draft available upon requrest_. 
 
-A model of Online Platform and Open Source Community, with [Zhouzhou Gu](https://oahinih.github.io/homepage/).
++ [A model of Online Platform and Open Source Community](), with [Zhouzhou Gu](https://oahinih.github.io/homepage/).
 
