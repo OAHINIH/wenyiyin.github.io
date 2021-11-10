@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Wenyi(Wendy) Yin's page
 
 You can use the [editor on GitHub](https://github.com/wenyiyin/wenyiyin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
